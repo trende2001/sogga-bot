@@ -1,0 +1,7 @@
+{
+    "catApiKey": "go to the thecatapi.com and sign up",
+    "dogApiKey": "go to the thedogapi.com and sign up and get your api token",
+    "token": "YourTokenHere",
+    "prefix": "r.",
+    "mongooseConnectionString": ""
+}
