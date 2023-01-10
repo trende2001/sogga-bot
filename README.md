@@ -15,4 +15,4 @@ Pull requests are welcome. For bugs, please open an issue first to discuss what 
 
 Please make sure to update tests as appropriate.
 
-You can host this bot personally, but not commercially. You can also learn from it and contribute to make it better.
+You can host this bot personally. You can also learn from it and contribute to make it better.
